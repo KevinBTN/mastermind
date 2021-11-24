@@ -1,0 +1,68 @@
+body{
+    background: rgb(142,172,246);
+    background: radial-gradient(circle, rgba(142,172,246,1) 2%, rgba(217,217,221,1) 90%); 
+}
+
+.msgVictoir{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    font-size: 5em;
+
+}
+.rond{
+    width: 15px;
+    height: 15px;
+    border: solid;
+    border-width: 2px;
+    border-color: white;
+}
+
+.grandRond{
+    width: 40px;
+    height: 40px;
+    border: solid;
+    border-width: 2px;
+    border-color: white;
+}
+.bouton{
+    width: 60px;
+    height: 60px;
+    border: solid;
+    border-width: 2px;
+    border-color: white;
+    color: white;
+    font-size: 12px;
+}
+.mini{
+    width: 100%;
+}
+.blanc{
+    background-color: white;
+}
+.violet{
+    background-color: purple;
+}
+.jaune{
+    background-color: yellow;
+}
+.vert{
+    background-color: green;
+}
+.rouge{
+    background-color: red;
+}
+.bleu{
+    background-color: lightblue;
+}
+.noir{
+    background-color: black;
+}
+.transparent{
+    background-color: transparent;
+}
+.mini-transparent{
+    background-color: transparent;
+}
